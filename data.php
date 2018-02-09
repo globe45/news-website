@@ -7,11 +7,4 @@ $result=mysqli_query($con,
 $row=mysqli_fetch_OBJECT($result);
 echo "<pre>";
 print_r($row);
-		
-		
-		
-		
-		
-		
-		
 ?>
