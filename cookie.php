@@ -1,0 +1,3 @@
+<?php 
+setcookie("subject","php");
+?>
